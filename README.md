@@ -15,17 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorThume&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Principais projetos
-
-- Tela simples de login. <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuniorThume&repo=login-flexbox)](https://github.com/anuraghazra/github-readme-stats)
-
-- Site contando um pouco da história do Android. <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuniorThume&repo=projeto-site-android)](https://github.com/anuraghazra/github-readme-stats)
-
-- App de cadastro de tarefas (Estilo TO-DO). <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuniorThume&repo=android-tasks)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
