@@ -2,6 +2,7 @@
 
 ![Juniot Stats](https://github-readme-stats.vercel.app/api?username=JuniorThume&show_icons=true&theme=darcula&count_private=true)
 
+
 ### Atualmente estou estudando
   
   - <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
