@@ -10,7 +10,7 @@ Meu objetivo é não apenas aprimorar minhas habilidades de programação, mas t
 
 Atualmente estou estudando e buscando melhorar nas seguintes tecnologias:
   
-[![I'm studying](https://skillicons.dev/icons?i=ts,react,styledcomponents)](https://skillicons.dev)
+[![I'm studying](https://skillicons.dev/icons?i=ts,react,styledcomponents,nodejs,express)](https://skillicons.dev)
 
 ## *Stats*
 
