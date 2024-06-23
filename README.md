@@ -25,7 +25,7 @@ Atualmente estou estudando e buscando melhorar nas seguintes tecnologias:
 ## Entre em contato
 
 - **E-mail**: [thumejuniorvalmir@gmail.com](mailto:thumejuniorvalmir@gmail.com)
-- **LinkedIn**: [Valmir Thume Junior](https://www.linkedin.com/in/valmir-thume-junior-b13662232/)
+- **LinkedIn**: [Valmir Thume Junior](https://www.linkedin.com/in/valmir-thume-junior-9248a2312/)
 
 **Obrigado por visitar meu perfil do GitHub!** 
 
