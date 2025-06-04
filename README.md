@@ -10,7 +10,7 @@ Meu objetivo é não apenas aprimorar minhas habilidades de programação, mas t
 
 Atualmente estou estudando e buscando melhorar nas seguintes tecnologias:
   
-[![I'm studying](https://skillicons.dev/icons?i=ts,react,styledcomponents,nodejs,express)](https://skillicons.dev)
+[![I'm studying](https://skillicons.dev/icons?i=redis,sequelize,react,mongodb)](https://skillicons.dev)
 
 ## *Stats*
 
@@ -19,7 +19,7 @@ Atualmente estou estudando e buscando melhorar nas seguintes tecnologias:
 ![Junior Stats](https://github-readme-stats.vercel.app/api?username=JuniorThume&show_icons=true&theme=darcula&count_private=true&rank_icon=github)
 
 ## Minhas Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,figma,bootstrap,cpp&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,js,ts,react,figma,tailwind,postgres,cpp,nodejs,express&perline=6)](https://skillicons.dev)
 
 
 ## Entre em contato
