@@ -14,9 +14,9 @@ Atualmente estou estudando e buscando melhorar nas seguintes tecnologias:
 
 ## *Stats*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorThume&layout=pie&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorThume&layout=pie&theme=darcula)
 
-![Junior Stats](https://github-readme-stats.vercel.app/api?username=JuniorThume&show_icons=true&theme=darcula&count_private=true&rank_icon=github)
+[![Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorThume)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Minhas Habilidades:
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,js,ts,react,figma,tailwind,postgres,cpp,nodejs,express&perline=6)](https://skillicons.dev)
